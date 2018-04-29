@@ -1,0 +1,5 @@
+isPrime:
+	gcc -o isPrime isPrime.c
+
+clean:
+	rm isPrime
